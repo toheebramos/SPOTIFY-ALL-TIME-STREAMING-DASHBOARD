@@ -1,6 +1,6 @@
 # SPOTIFY-ALL-TIME-STREAMING-DASHBOARD
 
-The "Spotify Most Streamed Songs of All Time" dataset provides valuable insights into the world of music by cataloging the most streamed songs on the Spotify music streaming platform. This dataset includes the following;
+The "Spotify Most Streamed Songs of All Time" dataset provides valuable insights into the world of music by cataloging the most streamed songs on the Spotify music streaming platform. The dataset was featured on Kaggle.com and was downloaded from the website. This dataset includes the following;
 
 ARTIST: This contains the names of the artists or musical groups responsible for creating the songs. Artists are a fundamental part of the music industry, and their names are synonymous with their unique styles and contributions to the global music landscape.
 
